@@ -1,43 +1,64 @@
 var data = [
     {
-        img: "./KenaiFjords.png",
+        img: "https://oceancolor.gsfc.nasa.gov/gallery/feature/images/LC09_L1TP_004017_20230903_20230903_02_T1_Greenland_sm.png",
         country: "Alaska - USA",
-        place: "Kenai Fjords Park",
+        place: "Greenland Still Meeting",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "./GlowwormCaves.png",
+        img: "https://oceancolor.gsfc.nasa.gov/gallery/feature/images/LC09_L1TP_087052_20230401_20230402_02_T1_BikiniAtoll_sm.png",
         country: "The North Island - New Zealand",
-        place: "Glowworm Caves",
+        place: "Bikini Atoll Under Threat",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "./Pamukkale.png",
+        img: "https://oceancolor.gsfc.nasa.gov/gallery/feature/images/AQUA_MODIS_20230713T101000_sm.png",
         country: "Denizli - Turkey",
-        place: "Pamukkale Castle",
+        place: "Let the Sunshine in",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "./PragserWildsee.png",
+        img: "https://oceancolor.gsfc.nasa.gov/gallery/feature/images/T20230628_HudsonBay_FIreIce.sm.png",
         country: "South Tyrol - Italy",
-        place: "Pragser Wildsee",
+        place: "Fire and ice",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "./KumamotoCastle.png",
+        img: "https://oceancolor.gsfc.nasa.gov/gallery/feature/images/A20230615_MozambiqueChannel_sm.jpg",
         country: "Kumamoto - Japan",
-        place: "Kumamoto Castle",
+        place: "Mozambique Channel Edd",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "./SepulvedaDam.png",
+        img: "https://oceancolor.gsfc.nasa.gov/gallery/feature/images/A20230402_FrisianFrills_sm.jpg",
         country: "California - USA",
-        place: "Sepulveda Dam",
+        place: "Frisian Frills",
+        describe:
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
+    },
+    {
+        img: "https://oceancolor.gsfc.nasa.gov/gallery/feature/images/A20230301_SmokeOnBlueWaters_sm.jpg",
+        country: "California - USA",
+        place: "Smoke on Blue Waters",
+        describe:
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
+    },
+    {
+        img: "https://oceancolor.gsfc.nasa.gov/gallery/feature/images/A2022296023500_NewZealand_sm.cropped.png",
+        country: "California - USA",
+        place: "South Pacific Ocean",
+        describe:
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
+    },
+    {
+        img: "https://oceancolor.gsfc.nasa.gov/gallery/feature/images/HudsonBay_sm.png",
+        country: "California - USA",
+        place: "Clear View of the Hudson",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
